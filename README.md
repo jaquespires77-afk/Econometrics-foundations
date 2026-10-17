@@ -84,5 +84,7 @@ Monte Carlo means fluctuate around the target population values; the published C
 - Angrist, J. D. & Pischke, J.-S. *Mastering 'Metrics* (causal identification and regression).
 
 **Project:** Cifras & Contextos Quant Lab  
-**Author:** Jaques Pires Duarte Junior  
+
+**Author:** Jaques Pires Duarte Junior 
+
 **License:** MIT
