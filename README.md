@@ -24,7 +24,7 @@ The simulation uses $education\sim N(0,1)$, $z\sim N(0,1)$, $ability=\rho\,educa
 The correctly specified regression includes education and ability. The restricted regression omits ability. Its population slope is:
 
 $$
-\tilde\beta_1 = \beta_1 + \beta_2\frac{\operatorname{Cov}(education,ability)}{\operatorname{Var}(education)}.
+\tilde\beta_1 = \beta_1 + \beta_2\frac{\mathrm{Cov}(education,ability)}{\mathrm{Var}(education)}.
 $$
 
 Under the simulation's unit variance and correlation $\rho=0.6$:
@@ -85,6 +85,6 @@ Monte Carlo means fluctuate around the target population values; the published C
 
 **Project:** Cifras & Contextos Quant Lab  
 
-**Author:** Jaques Pires Duarte Junior 
+**Author:** Jaques Pires Duarte Junior  
 
 **License:** MIT
